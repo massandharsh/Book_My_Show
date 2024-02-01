@@ -1,4 +1,4 @@
-package dev.harsh.architect.bookmyshow;
+package dev.harsh.architect.bookmyshow.exceptions;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
